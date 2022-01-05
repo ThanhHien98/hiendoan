@@ -1,0 +1,6 @@
+projectKey=thanhhien
+serverUrl=http://localhost:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9000/dashboard?id=thanhhien
+ceTaskId=AX4kch6fJZkYcbHCqMxa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4kch6fJZkYcbHCqMxa
